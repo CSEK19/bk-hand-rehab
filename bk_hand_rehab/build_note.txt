@@ -1,0 +1,2 @@
+pyinstaller --onedir --name bk-rehab --specpath 'bk_hand_rehab\spec' main.py
+pyinstaller .\spec\bk_rehab.spec 
